@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpitdash
-- 👀 I’m interested in leaning coding 
+- 👀 I’m interested in lean coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginners group project 
 - 📫 How to reach me - dm me on instagram @arpit_dash203
